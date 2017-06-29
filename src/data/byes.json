@@ -1,0 +1,137 @@
+{
+  "Bye Week 5": [{
+    "team": "ATL",
+    "byeWeek": "5",
+    "displayName": "Atlanta Falcons"
+  }, {
+    "team": "DEN",
+    "byeWeek": "5",
+    "displayName": "Denver Broncos"
+  }, {
+    "team": "NO",
+    "byeWeek": "5",
+    "displayName": "New Orleans Saints"
+  }, {
+    "team": "WAS",
+    "byeWeek": "5",
+    "displayName": "Washington Redskins"
+  }],
+  "Bye Week 6": [{
+    "team": "BUF",
+    "byeWeek": "6",
+    "displayName": "Buffalo Bills"
+  }, {
+    "team": "CIN",
+    "byeWeek": "6",
+    "displayName": "Cincinnati Bengals"
+  }, {
+    "team": "DAL",
+    "byeWeek": "6",
+    "displayName": "Dallas Cowboys"
+  }, {
+    "team": "SEA",
+    "byeWeek": "6",
+    "displayName": "Seattle Seahawks"
+  }],
+  "Bye Week 7": [{
+    "team": "HOU",
+    "byeWeek": "7",
+    "displayName": "Houston Texans"
+  }, {
+    "team": "DET",
+    "byeWeek": "7",
+    "displayName": "Detroit Lions"
+  }],
+  "Bye Week 8": [{
+    "team": "TEN",
+    "byeWeek": "8",
+    "displayName": "Tennessee Titans"
+  }, {
+    "team": "LAR",
+    "byeWeek": "8",
+    "displayName": "Los Angeles Rams"
+  }, {
+    "team": "NYG",
+    "byeWeek": "8",
+    "displayName": "New York Giants"
+  }, {
+    "team": "JAC",
+    "byeWeek": "8",
+    "displayName": "Jacksonville Jaguars"
+  }, {
+    "team": "GB",
+    "byeWeek": "8",
+    "displayName": "Green Bay Packers"
+  }, {
+    "team": "ARI",
+    "byeWeek": "8",
+    "displayName": "Arizona Cardinals"
+  }],
+  "Bye Week 9": [{
+    "team": "NE",
+    "byeWeek": "9",
+    "displayName": "New England Patriots"
+  }, {
+    "team": "CLE",
+    "byeWeek": "9",
+    "displayName": "Cleveland Browns"
+  }, {
+    "team": "LAC",
+    "byeWeek": "9",
+    "displayName": "Los Angeles Chargers"
+  }, {
+    "team": "PIT",
+    "byeWeek": "9",
+    "displayName": "Pittsburgh Steelers"
+  }, {
+    "team": "MIN",
+    "byeWeek": "9",
+    "displayName": "Minnesota Vikings"
+  }, {
+    "team": "CHI",
+    "byeWeek": "9",
+    "displayName": "Chicago Bears"
+  }],
+  "Bye Week 10": [{
+    "team": "PHI",
+    "byeWeek": "10",
+    "displayName": "Philadelphia Eagles"
+  }, {
+    "team": "OAK",
+    "byeWeek": "10",
+    "displayName": "Oakland Raiders"
+  }, {
+    "team": "KC",
+    "byeWeek": "10",
+    "displayName": "Kansas City Chiefs"
+  }, {
+    "team": "BAL",
+    "byeWeek": "10",
+    "displayName": "Baltimore Ravens"
+  }],
+  "Bye Week 11": [{
+    "team": "CAR",
+    "byeWeek": "11",
+    "displayName": "Carolina Panthers"
+  }, {
+    "team": "IND",
+    "byeWeek": "11",
+    "displayName": "Indianapolis Colts"
+  }, {
+    "team": "MIA",
+    "byeWeek": "11",
+    "displayName": "Miami Dolphins"
+  }, {
+    "team": "NYJ",
+    "byeWeek": "11",
+    "displayName": "New York Jets"
+  }, {
+    "team": "SF",
+    "byeWeek": "11",
+    "displayName": "San Francisco 49ers"
+  }, {
+    "team": "TB",
+    "byeWeek": "11",
+    "displayName": "Tampa Bay Buccaneers"
+  }]
+}

@@ -1,0 +1,195 @@
+{
+  "NFLTeams": [{
+    "code": "ARI",
+    "division": "WEST",
+    "conference": "NFC",
+    "fullName": "Arizona Cardinals",
+    "shortName": "Arizona"
+  }, {
+    "code": "ATL",
+    "division": "SOUTH",
+    "conference": "NFC",
+    "fullName": "Atlanta Falcons",
+    "shortName": "Atlanta"
+  }, {
+    "code": "BAL",
+    "conference": "AFC",
+    "division": "NORTH",
+    "fullName": "Baltimore Ravens",
+    "shortName": "Baltimore"
+  }, {
+    "code": "BUF",
+    "division": "EAST",
+    "conference": "AFC",
+    "fullName": "Buffalo Bills",
+    "shortName": "Buffalo"
+  }, {
+    "code": "CAR",
+    "division": "SOUTH",
+    "conference": "NFC",
+    "fullName": "Carolina Panthers",
+    "shortName": "Carolina"
+  }, {
+    "code": "CHI",
+    "conference": "NFC",
+    "division": "NORTH",
+    "fullName": "Chicago Bears",
+    "shortName": "Chicago"
+  }, {
+    "code": "CIN",
+    "conference": "AFC",
+    "division": "NORTH",
+    "fullName": "Cincinnati Bengals",
+    "shortName": "Cincinnati"
+  }, {
+    "code": "CLE",
+    "conference": "AFC",
+    "division": "NORTH",
+    "fullName": "Cleveland Browns",
+    "shortName": "Cleveland"
+  }, {
+    "code": "DAL",
+    "conference": "NFC",
+    "division": "EAST",
+    "fullName": "Dallas Cowboys",
+    "shortName": "Dallas"
+  }, {
+    "code": "DEN",
+    "division": "WEST",
+    "conference": "AFC",
+    "fullName": "Denver Broncos",
+    "shortName": "Denver"
+  }, {
+    "code": "DET",
+    "conference": "NFC",
+    "division": "NORTH",
+    "fullName": "Detroit Lions",
+    "shortName": "Detroit"
+  }, {
+    "code": "GB",
+    "conference": "NFC",
+    "division": "NORTH",
+    "fullName": "Green Bay Packers",
+    "shortName": "Green Bay"
+  }, {
+    "code": "HOU",
+    "conference": "AFC",
+    "division": "SOUTH",
+    "fullName": "Houston Texans",
+    "shortName": "Houston"
+  }, {
+    "code": "IND",
+    "conference": "AFC",
+    "division": "SOUTH",
+    "fullName": "Indianapolis Colts",
+    "shortName": "Indianapolis"
+  }, {
+    "code": "JAC",
+    "division": "SOUTH",
+    "conference": "AFC",
+    "fullName": "Jacksonville Jaguars",
+    "shortName": "Jacksonville"
+  }, {
+    "code": "KC",
+    "division": "WEST",
+    "conference": "AFC",
+    "fullName": "Kansas City Chiefs",
+    "shortName": "Kansas City"
+  }, {
+    "code": "MIA",
+    "conference": "AFC",
+    "division": "EAST",
+    "fullName": "Miami Dolphins",
+    "shortName": "Miami"
+  }, {
+    "code": "MIN",
+    "conference": "NFC",
+    "division": "NORTH",
+    "fullName": "Minnesota Vikings",
+    "shortName": "Minnesota"
+  }, {
+    "code": "NYG",
+    "division": "EAST",
+    "conference": "NFC",
+    "fullName": "N.Y. Giants",
+    "shortName": "N.Y. Giants"
+  }, {
+    "code": "NYJ",
+    "division": "EAST",
+    "conference": "AFC",
+    "fullName": "N.Y. Jets",
+    "shortName": "N.Y. Jets"
+  }, {
+    "code": "NE",
+    "conference": "AFC",
+    "division": "EAST",
+    "fullName": "New England Patriots",
+    "shortName": "New England"
+  }, {
+    "code": "NO",
+    "division": "SOUTH",
+    "conference": "NFC",
+    "fullName": "New Orleans Saints",
+    "shortName": "New Orleans"
+  }, {
+    "code": "OAK",
+    "division": "WEST",
+    "conference": "AFC",
+    "fullName": "Oakland Raiders",
+    "shortName": "Oakland"
+  }, {
+    "code": "PHI",
+    "conference": "NFC",
+    "division": "EAST",
+    "fullName": "Philadelphia Eagles",
+    "shortName": "Philadelphia"
+  }, {
+    "code": "PIT",
+    "conference": "AFC",
+    "division": "NORTH",
+    "fullName": "Pittsburgh Steelers",
+    "shortName": "Pittsburgh"
+  }, {
+    "code": "LAC",
+    "division": "WEST",
+    "conference": "AFC",
+    "fullName": "Los Angeles Chargers",
+    "shortName": "L.A. Chargers"
+  }, {
+    "code": "SF",
+    "division": "WEST",
+    "conference": "NFC",
+    "fullName": "San Francisco 49ers",
+    "shortName": "San Francisco"
+  }, {
+    "code": "SEA",
+    "division": "WEST",
+    "conference": "NFC",
+    "fullName": "Seattle Seahawks",
+    "shortName": "Seattle"
+  }, {
+    "code": "LAR",
+    "division": "WEST",
+    "conference": "NFC",
+    "fullName": "Los Angeles Rams",
+    "shortName": "L.A. Rams"
+  }, {
+    "code": "TB",
+    "conference": "NFC",
+    "division": "SOUTH",
+    "fullName": "Tampa Bay Buccaneers",
+    "shortName": "Tampa Bay"
+  }, {
+    "code": "TEN",
+    "division": "SOUTH",
+    "conference": "AFC",
+    "fullName": "Tennessee Titans",
+    "shortName": "Tennessee"
+  }, {
+    "code": "WAS",
+    "division": "EAST",
+    "conference": "NFC",
+    "fullName": "Washington Redskins",
+    "shortName": "Washington"
+  }]
+}
